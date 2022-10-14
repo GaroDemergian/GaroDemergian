@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Garo Demergian</h1>
-<h3 align="center">IOT developer</h3>
+<h1 align="left">Hi 👋, I'm Garo Demergian</h1>
+<h3 align="left">IOT developer</h3>
 
 - 🔭 I’m currently working on **EV charging prototypes**
 
