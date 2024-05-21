@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Garo Demergian</h1>
 <h3 align="left">IOT developer</h3>
 
-- 🔭 I’m currently working on **EV charging prototypes**
+- 🔭 I’m currently working on **EV charging product development**
 
 - 🌱 I’m currently learning **ISO15118-2/20**
 
