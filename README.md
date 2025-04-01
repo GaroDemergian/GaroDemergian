@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **ISO15118-2/20**
 
-- 📝 I occasionally write articles on [https://www.garodemergian.com/](https://www.garodemergian.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
